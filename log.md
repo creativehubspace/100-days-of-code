@@ -12,3 +12,13 @@
 **Today's Progress**: Set up a git repository to work on freecodecamp's random quote machine project.
 
 **Link to work:** [Random Quote Machine](https://github.com/creativehubspace/random-quote-machine)
+
+### Day 1: Jan 4, 2017
+
+**Today's Progress**: Completed a challenge against a bot at https://codefights.com.
+
+### Day 2: Jan 5, 2017
+
+**Today's Progress**: Completed first vanilla js challenge from https://javascript30.com.
+
+**Link to work:** [JS Drumkit](https://github.com/creativehubspace/simple-js-drumkit)
